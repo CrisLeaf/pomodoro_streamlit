@@ -1,1 +1,1 @@
-beepy
+beepy==1.0.7
